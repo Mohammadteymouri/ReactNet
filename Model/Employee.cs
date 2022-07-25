@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 
 
-namespace ReactNet.DataBase
+namespace ReactNet.Model
 {
     public class Employee
     {

@@ -4,7 +4,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using ReactNet.DataBase;
+using ReactNet.Model;
 
 namespace ReactNet.Services
 {
